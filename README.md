@@ -1,2 +1,2 @@
 # moving-company-website
-Designed a website for a startup moving company
+Here is a website that I designed for a startup company using HTML and CSS.
